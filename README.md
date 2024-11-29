@@ -58,13 +58,13 @@ The dataset includes travel plans and itineraries for various destinations acros
    **Run the script:**
    ```bash
    python index.py
-   
+   ```
 
 3. Run the Backend Server**
    **Open the `app.py` file and Run the backend:**
    ```bash
    python app.py
-   
+   ```
 
 4. Run Frontend:
    Navigate to **http://127.0.0.1:8000** on your browser to deploy the frontend
