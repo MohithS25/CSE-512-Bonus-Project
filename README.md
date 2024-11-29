@@ -1,10 +1,11 @@
 # ITINERARY PLANNER
 ##Overview
-
-The Itinerary Planner is a powerful web application designed to help users plan their trips seamlessly by exploring and filtering travel itineraries stored in Elasticsearch. Users can search for trips based on origin, destination, and the number of days and view detailed itineraries with budgets. The application provides a user-friendly interface and dynamic interactivity.
-
-The dataset includes travel plans and itineraries for various destinations across the USA, featuring detailed trip plans, budgets, and attractions.
 ---
+The Itinerary Planner is a web application designed to help users plan their trips by exploring and filtering travel itineraries stored in Elasticsearch. Users can search for trips based on origin, destination, and the number of days and view itineraries with budgets. The application provides a user-friendly interface and dynamic interactivity.
+The dataset includes travel plans and itineraries for various destinations across the USA, featuring trip plans, budgets, and attractions.
+
+---
+
 Features
 Search Trips
 Filter trips by:
